@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi there, I'm Habib Ur Rehman 👋
 
-<!--
-**hab7666/hab7666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+🎓 Final Year Data Science Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate Python Developer
+
+🤖 Interested in Artificial Intelligence, Machine Learning & Generative AI
+
+📚 Currently learning RAG Systems, LLMs and AI Agents
+
+🌱 Always learning new technologies
+
+---
+
+## 🛠️ Skills
+
+- Python
+- Machine Learning
+- Data Science
+- Pandas
+- NumPy
+- Scikit-learn
+- Streamlit
+- FastAPI
+- Git & GitHub
+
+---
+
+## 🚀 Projects
+
+- 🤖 AI Voice Assistant
+- 📄 Intermediate RAG System
+- 📊 Data Analysis Projects
+- 🧠 Machine Learning Projects
+
+---
+
+## 🎯 Goals
+
+- Build real-world AI applications
+- Contribute to Open Source
+- Secure an AI/Data Science Internship
+- Continuously improve my programming skills
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn (https://www.linkedin.com/in/habib-ur-rehman-b98b31346/)
+- Email: habibraja383@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
